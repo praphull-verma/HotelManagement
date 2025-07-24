@@ -39,12 +39,15 @@ HotelManagement.java
 Navigate to the project folder:
 
 cd hotel-management
+
 Compile the Java file:
 
 javac HotelManagement.java
+
 Run the program:
 
 java HotelManagement
+
 📖 Example Usage
 Menu Options:
 
