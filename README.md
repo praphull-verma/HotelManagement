@@ -25,9 +25,6 @@ This project demonstrates basic operations like **room booking, availability che
 ## 📂 Project Structure
 HotelManagement.java
 
-yaml
-Copy
-Edit
 - **`roomBook()`** – Books a room if it is available.  
 - **`availability()`** – Checks if a room is available.  
 - **`checkout()`** – Marks the room as available after checkout.  
@@ -41,27 +38,16 @@ Edit
    git clone https://github.com/praphull-verma/HotelManagement.git
 Navigate to the project folder:
 
-bash
-Copy
-Edit
 cd hotel-management
 Compile the Java file:
 
-bash
-Copy
-Edit
 javac HotelManagement.java
 Run the program:
 
-bash
-Copy
-Edit
 java HotelManagement
 📖 Example Usage
 Menu Options:
-markdown
-Copy
-Edit
+
 Choose an option:
 1. Room Booking
 2. Check Availability
@@ -70,9 +56,6 @@ Choose an option:
 5. Quit
 Room Booking Example:
 
-typescript
-Copy
-Edit
 Please Enter the floor number for room Booking [0-1-2]: 1
 
 Please Enter the room number for room Booking [0-1-2-3]: 2
