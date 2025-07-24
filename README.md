@@ -38,7 +38,7 @@ Edit
 ## 💻 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/hotel-management.git
+   git clone https://github.com/praphull-verma/HotelManagement.git
 Navigate to the project folder:
 
 bash
